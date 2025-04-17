@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\source\\repos\\employeeapp\\employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\source\\repos\\employeeapp\\employeeapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -47,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\source\\repos\\employeeapp\\employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\source\\repos\\employeeapp\\employeeapp\\data\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\data\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,15 +86,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\.gitignore",
               "RelativeDocumentMoniker": "EmployeeApp\\.gitignore",
@@ -107,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EmployeeModel.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Model\\EmployeeModel.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Model\\EmployeeModel.cs",
@@ -115,12 +111,11 @@
               "RelativeToolTip": "EmployeeApp\\Model\\EmployeeModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T03:26:57.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T03:26:57.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Application\\Interfaces\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Application\\Interfaces\\IEmployeeRepository.cs",
@@ -128,12 +123,11 @@
               "RelativeToolTip": "EmployeeApp\\Application\\Interfaces\\IEmployeeRepository.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T06:13:59.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T06:13:59.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Data\\ApplicationDbContext.cs",
@@ -141,12 +135,11 @@
               "RelativeToolTip": "EmployeeApp\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAowBcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:34:52.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T15:34:52.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Data\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Data\\Employee.cs",
@@ -154,12 +147,11 @@
               "RelativeToolTip": "EmployeeApp\\Data\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:17:25.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T15:17:25.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\EmployeeController.cs",
@@ -172,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Services\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Services\\EmployeeRepository.cs",
@@ -180,12 +172,11 @@
               "RelativeToolTip": "EmployeeApp\\Services\\EmployeeRepository.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAcwGIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T06:15:27.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T06:15:27.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StateController.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\StateController.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\StateController.cs",
@@ -193,12 +184,11 @@
               "RelativeToolTip": "EmployeeApp\\Controllers\\StateController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T06:24:10.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T06:24:10.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Program.cs",
@@ -206,18 +196,17 @@
               "RelativeToolTip": "EmployeeApp\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAIBJwB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T05:33:28.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T05:33:28.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\appsettings.json",
               "RelativeDocumentMoniker": "EmployeeApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\appsettings.json",
-              "RelativeToolTip": "EmployeeApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\appsettings.json*",
+              "RelativeToolTip": "EmployeeApp\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-15T15:21:45.597Z",
               "EditorCaption": ""
@@ -232,12 +221,11 @@
               "RelativeToolTip": "EmployeeApp\\EmployeeApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-15T15:21:55.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T15:21:55.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\WeatherForecastController.cs",
@@ -245,12 +233,11 @@
               "RelativeToolTip": "EmployeeApp\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T10:47:59.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T10:47:59.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\Application\\Interfaces\\IApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Application\\Interfaces\\IApplicationDbContext.cs",
@@ -258,8 +245,7 @@
               "RelativeToolTip": "EmployeeApp\\Application\\Interfaces\\IApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:35:57.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T15:35:57.261Z"
             },
             {
               "$type": "Document",
@@ -270,8 +256,7 @@
               "ToolTip": "C:\\Users\\Vamshi Krishna\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
               "RelativeToolTip": "EmployeeApp\\EmployeeApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-16T07:34:59.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T07:34:59.965Z"
             },
             {
               "$type": "Document",
@@ -283,8 +268,7 @@
               "RelativeToolTip": "EmployeeApp\\Data\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:18:55.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T15:18:55.029Z"
             }
           ]
         }
