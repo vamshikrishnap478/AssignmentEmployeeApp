@@ -10,10 +10,12 @@ namespace EmployeeApp.Controllers
     public class EmployeeController : Controller
     {
         private readonly IEmployeeRepository _repository;
+        private readonly IApplicationDbContext _context;
 
-        public EmployeeController(IEmployeeRepository repository)
+        public EmployeeController(IEmployeeRepository repository, IApplicationDbContext context)
         {
             _repository = repository;
+            _context = context;
         }
 
         [HttpGet("AllEmployees")]
@@ -63,6 +65,19 @@ namespace EmployeeApp.Controllers
         {
            var data =  await _repository.GeneratePdf();
             return Ok(data);
+        }
+        [HttpPost("Enter")]
+        public async Task<IActionResult> enter(List<string> names)
+        {
+            foreach (var name in names)
+            {
+                State state = new State();
+                state.StateName = name;
+                _context.State.Add(state);
+                _context.SaveChanges();
+
+            }
+                return Ok();
         }
 
     }

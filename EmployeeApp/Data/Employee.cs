@@ -13,5 +13,6 @@ namespace EmployeeApp.Data
         public decimal? Salary { get; set; }
         public string? Gender { get; set; }
         public string? State { get; set; }
+        public DateTime? Createdate { get; set; }
     }
 }
