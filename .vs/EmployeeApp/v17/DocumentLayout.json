@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\assignmentemployeeapp\\employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\assignmentemployeeapp\\employeeapp\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\assignmentemployeeapp\\employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\assignmentemployeeapp\\employeeapp\\migrations\\20250418032738_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\migrations\\20250418032738_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\assignmentemployeeapp\\employeeapp\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\vamshi krishna\\assignmentemployeeapp\\employeeapp\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD6B40-AAFB-4C40-AD06-48EAF642B993}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +51,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\StateController.cs",
+              "ToolTip": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Controllers\\StateController.cs",
+              "RelativeToolTip": "EmployeeApp\\Controllers\\StateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:51:26.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250418032738_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Migrations\\20250418032738_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Migrations\\20250418032738_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Migrations\\20250418032738_InitialCreate.cs",
+              "RelativeToolTip": "EmployeeApp\\Migrations\\20250418032738_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:32:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Data\\Employee.cs",
+              "RelativeToolTip": "EmployeeApp\\Data\\Employee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:19:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Services\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Services\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Services\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeApp\\Services\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:18:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:42:43.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vamshi Krishna\\AssignmentEmployeeApp\\EmployeeApp\\appsettings.json",
+              "RelativeToolTip": "EmployeeApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T17:12:09.266Z",
+              "EditorCaption": ""
             }
           ]
         }

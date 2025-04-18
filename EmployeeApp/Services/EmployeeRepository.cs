@@ -20,7 +20,7 @@ namespace EmployeeApp.Services
         }
 
         public async Task<IEnumerable<Employee>> GetAllAsync() =>
-            await _context.Employee.ToListAsync();
+            await _context.Employee.OrderByDescending(x => x.Createdate).ToListAsync();
 
         public async Task<Employee> GetByIdAsync(int id) =>
             await _context.Employee.FindAsync(id);
@@ -35,6 +35,7 @@ namespace EmployeeApp.Services
             record.Designation = employee.Designation;  
             record.State = employee.State;
             record.Gender = employee.Gender;
+            record.Createdate = DateTime.Now;
             await _context.Employee.AddAsync(record);
             _context.SaveChanges();
         }
