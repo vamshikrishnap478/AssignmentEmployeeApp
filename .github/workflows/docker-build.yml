@@ -1,9 +1,9 @@
-name: Build and Push Docker Image
+name: Docker Build and Merge
 
 on:
   push: 
     branches:
-      - master
+      - '**'
 
 permissions:
   contents: read
@@ -34,3 +34,13 @@ jobs:
           file: ./EmployeeApp/Dockerfile
           push: true
           tags: ghcr.io/${{ github.repository_owner }}/employeeapi:latest
+
+      - name: Auto-merge TestCICD -> master
+        if: startsWith(github.ref, 'refs/heads/release/')
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git fetch origin master
+          git checkout master
+          git merge ${GITHUB_REF#refs/heads/} --no-edit
+          git push origin master
